@@ -11,8 +11,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects (stats p
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🏳️‍🌈 [Predicting status of Gay Legalization?](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2025 |R, Data Cleaning, Data Analysis, Logistic Regression, Trees(Bagging and RF), LDA, SVM | Predicted whether or not a country had legalized same-sex marriage using a model based approach using data from the World Bank and Our World in Data. |
-| 🍃 [Who Buys the Bud?](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | May 2025 | R, Data Analysis, Data Cleaning, Multiple Linear Regression  | Made a predictive model to predict the sales of marijuana per capita using racial makeup, income, age, type of city, and crime rate. |
+| 🏳️‍🌈 [Predicting status of Gay Legalization?](https://github.com/ay108/Predicting_Same_Sex_Marriage/tree/main) | May 2025 |R, Data Cleaning, Data Analysis, Logistic Regression, Trees(Bagging and RF), LDA, SVM | Predicted whether or not a country had legalized same-sex marriage using a model based approach using data from the World Bank and Our World in Data. |
+| 🍃 [Who Buys the Bud?](https://github.com/ay108/WhoBuysTheBud) | May 2025 | R, Data Analysis, Data Cleaning, Multiple Linear Regression  | Made a predictive model to predict the sales of marijuana per capita using racial makeup, income, age, type of city, and crime rate. |
 
 *** 
 
